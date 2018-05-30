@@ -1,4 +1,4 @@
 /**
-package-info.java
+package-info.java.
 **/
 package com.example ;
