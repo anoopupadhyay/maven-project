@@ -1,14 +1,25 @@
-
 <html>
-      <title>Sample Example </title>
-<body>
-      <h1> <center> Maven-Github-Jenkine-Automation_Demo </center> </h1>
-      <b> Mathematics</b>
-      <hr>
-      <form method="post" action="a.jsp">
-<font size=5 face="Times New Roman">
-      <input type="radio" name="a1" value="add" checked>Addition</input><br>
-      <input type="radio" name="a1" value="mul" >Multiplication</input><br>
-      <input type="radio" name="a1" value="div" >Division</input><br>
-</body>
-</html>
+  <head>
+    <title>Sample "Hello, World" Application</title>
+  </head>
+  <body bgcolor=white>
+
+    <table border="0" cellpadding="10">
+      <tr>
+        <td>
+          <img src="images/springsource.png">
+        </td>
+        <td>
+          <h1>Sample "Hello, World" Application</h1>
+        </td>
+      </tr>
+    </table>
+
+    <p>This is the home page for the HelloWorld Web application. </p>
+    <p>To prove that they work, you can execute either of the following links:
+    <ul>
+      <li>To a <a href="hello.jsp">JSP page</a>.
+      <li>To a <a href="hello">servlet</a>.
+    </ul>
+
+  </body>
