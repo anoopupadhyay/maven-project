@@ -8,13 +8,13 @@
   <table border="0" cellpadding="10">
     <tr>
       <td>
-         <h1>Sample Application JSP Page</h1>
+         <h1>jenkine_maven-Github-Demo application</h1>
       </td>
     </tr>
   </table>
 
   <br />
-  <p>This is the output of a JSP page that is part of the HelloWorld application.</p>
+  <p>jenkine_maven-Github-Demo application HelloWorld application.</p>
 
   <%= new String("Hello!") %>
 
