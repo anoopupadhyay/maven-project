@@ -7,7 +7,7 @@
     <table border="0" cellpadding="10">
       <tr>
         <td>
-          <img src="images/springsource.png">
+          <img src="/main/webapp/devops.png">
         </td>
         <td>
           <h1>Sample "Hello, World" Application</h1>
