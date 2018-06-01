@@ -1,25 +1,25 @@
-<html>
+ <html>
   <head>
-    <title>Sample "Hello, World" Application</title>
+    <title>Sample Application JSP Page</title>
   </head>
+
   <body bgcolor=white>
 
-    <table border="0" cellpadding="10">
-      <tr>
-        <td>
-          <img src="/main/webapp/devops.png">
-        </td>
-        <td>
-          <h1>Sample "Hello, World" Application</h1>
-        </td>
-      </tr>
-    </table>
+  <table border="0" cellpadding="10">
+    <tr>
+      <td align=center>
+        <img src="images/springsource.png">
+      </td>
+      <td>
+         <h1>Sample Application JSP Page</h1>
+      </td>
+    </tr>
+  </table>
 
-    <p>This is the home page for the HelloWorld Web application. </p>
-    <p>To prove that they work, you can execute either of the following links:
-    <ul>
-      <li>To a <a href="hello.jsp">JSP page</a>.
-      <li>To a <a href="hello">servlet</a>.
-    </ul>
+  <br />
+  <p>This is the output of a JSP page that is part of the HelloWorld application.</p>
+
+  <%= new String("Hello!") %>
 
   </body>
+</html> 
