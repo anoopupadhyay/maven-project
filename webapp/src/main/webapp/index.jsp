@@ -2,7 +2,7 @@
 <html>
       <title>Sample Example </title>
 <body>
-      <h1> <center> Example of JSP </center> </h1>
+      <h1> <center> Jenkine -Maven-Github Demo </center> </h1>
       <b> Mathematics</b>
       <hr>
       <form method="post" action="a.jsp">
