@@ -1,2 +1,5 @@
-This is demo JSP!!
-try again
+<html>
+<body>
+<h2>Hello World!</h2>
+</body>
+</html>
