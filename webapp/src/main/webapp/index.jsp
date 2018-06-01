@@ -12,9 +12,9 @@
       </td>
     </tr>
   </table>
-
   <br />
-  <p>jenkine_maven-Github-Demo application HelloWorld application.</p>
+  <p>HelloWorld application.</p>
+   <p>HelloWorld application.</p>
 
   <%= new String("Hello!") %>
 
