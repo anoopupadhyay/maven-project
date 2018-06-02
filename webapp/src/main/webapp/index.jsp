@@ -14,7 +14,9 @@
   </table>
   <br />
   <p>HelloWorld application.</p>
-   <p>jenkine_maven-Github-Demo application</p>
+   <p>
+   <h1>jenkine_maven-Github-Demo application</h1>>
+   </p>
 
   <%= new String("Hello!") %>
 
