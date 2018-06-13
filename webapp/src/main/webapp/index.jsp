@@ -16,7 +16,5 @@
     <p>jenkine_maven-Github-Demo application</p>
    <p>show to umesh</p>
 
-  <%= new String("Hello!") %>
-
-  </body>
+    </body>
 </html> 
