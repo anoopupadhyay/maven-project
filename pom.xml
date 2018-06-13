@@ -158,6 +158,20 @@
           <artifactId>jetty-maven-plugin</artifactId>
           <version>8.0.0.M1</version>
         </plugin>
+        
+         <!-- Tomcat plugin-->
+ 
+        <plugin>
+            <groupId>org.apache.tomcat.maven</groupId>
+            <artifactId>tomcat7-maven-plugin</artifactId>
+            <version>2.2</version>
+            <configuration>
+                <port>8090</port>   
+                <path>/webapp</path>
+            </configuration>
+        </plugin>
+            <!-- Tomcat plugin-->
+        
       </plugins>
     </pluginManagement>
   </build>
@@ -207,10 +221,10 @@
   </dependencyManagement>
 
   <scm>
-    <connection>scm:git:git@github.com:jleetutorial/maven-project.git</connection>
-    <developerConnection>scm:git:git@github.com:jleetutorial/maven-project.git</developerConnection>
+    <connection>scm:git:git@github.com:anoopupadhyay/maven-project.git</connection>
+    <developerConnection>scm:git:git@github.com:anoopupadhyay/maven-project.git</developerConnection>
     <tag>HEAD</tag>
-    <url>http://github.com/jleetutorial/maven-project</url>
+    <url>https://github.com/anoopupadhyay/maven-project</url>
   </scm>
 
   <prerequisites>
