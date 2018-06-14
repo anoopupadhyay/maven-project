@@ -14,7 +14,5 @@
     </tr>
   </table>
   <br />
-    <h1>jenkine_maven-Github-Demo application</h1>
-   
-    </body>
+       </body>
 </html> 
