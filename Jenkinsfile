@@ -4,13 +4,6 @@ pipeline {
    
     stages {
     
-	     stage('checkout') {
-	    
-	        git 'https://github.com/anoopupadhyay/SeleniumWithCucucumber.git'
-	    	
-	    	}
-	    
-	   
 	    stage ('Compile Stage') {
 
             steps {
