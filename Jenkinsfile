@@ -11,7 +11,7 @@ pipeline {
             }
         }
 
-		 stage ('package Stage') {
+		 stage ('Package Stage') {
 
             steps {
               
@@ -19,7 +19,7 @@ pipeline {
                 
             }
         }
-        stage ('Unit Stage') {
+        stage ('UnitTest Stage') {
 
             steps {
                
@@ -27,7 +27,7 @@ pipeline {
                 
             }
         }
-		stage ('Static Test') {
+		stage ('StaticAnalysis Stage') {
             steps {
                
                     sh 'mvn checkstyle:checkstyle'
@@ -35,14 +35,14 @@ pipeline {
             }
         }
 
-        stage ('Deployment Stage') {
+        stage ('Stg Deployment Stage') {
             steps {
                
                     build job: 'Deploy-to-staging'
                 
             }
         }
-        stage ('Deployment Prod') {
+        stage ('Prod Deployment Prod') {
             steps {
                
                     build job: 'Deploy-to-Prod'
