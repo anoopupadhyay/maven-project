@@ -1,12 +1,20 @@
-<%@ page language="java" contentType="text/html; charset=ISO-8859-1"
-    pageEncoding="ISO-8859-1"%>
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
-<html>
-<head>
-<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<title>DevOpsDemo</title>
-</head>
-<body>
- <title>Eclips-GIT-Maven-Jenkin-demo</title>
-</body>
-</html>
+ <html>
+  <head>
+    <title>jenkine_maven-Github-Demo application</title>
+  </head>
+
+  <body bgcolor=white>
+
+  <table border="0" cellpadding="10">
+    <tr>
+      <td>
+         <h1>jenkine_maven-Github-Demo application</h1>
+         
+      </td>
+    </tr>
+  </table>
+  <br />
+    <h1>jenkine_maven-Github-Demo application</h1>
+   
+    </body>
+</html> 
