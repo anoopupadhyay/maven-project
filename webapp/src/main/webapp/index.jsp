@@ -4,9 +4,9 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<title>Eclips-GIT-Maven-Jenkin-demo</title>
+<title>DevOpsDemo</title>
 </head>
 <body>
- 
+ <title>Eclips-GIT-Maven-Jenkin-demo</title>
 </body>
 </html>
