@@ -2,13 +2,17 @@ pipeline {
     agent any
 
     stages {
-        stage ('Compile Stage') {
+    
+    
+		  stage('checkout') {
+		     git 'https://github.com/anoopupadhyay/SeleniumWithCucucumber.git'
+		    }
+    
+           stage ('Compile Stage') {
 
             steps {
-              
                     sh 'mvn clean compile '
-                
-            }
+              }
         }
 
 		 stage ('Package Stage') {
