@@ -9,7 +9,7 @@
     <tr>
       <td>
          <h1>jenkine_maven-Github-Demo application</h1>
-         
+          <h1>jenkine_maven-Github-Demo application</h1>
       </td>
     </tr>
   </table>
