@@ -1,20 +1,12 @@
- <html>
-  <head>
-    <title>Sample Application JSP Page</title>
-  </head>
-
-  <body bgcolor=white>
-
-  <table border="0" cellpadding="10">
-    <tr>
-      <td>
-         <h1>jenkine_maven-Github-Demo application</h1>
-      </td>
-    </tr>
-  </table>
-  <br />
-    <p>jenkine_maven-Github-Demo application</p>
-   <p>show to umesh</p>
-
-    </body>
-</html> 
+<%@ page language="java" contentType="text/html; charset=ISO-8859-1"
+    pageEncoding="ISO-8859-1"%>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+<title>Eclips-GIT-Maven-Jenkin-demo</title>
+</head>
+<body>
+ 
+</body>
+</html>
