@@ -1,3 +1,5 @@
+node('master') {
+
 pipeline {
     agent any
    
@@ -51,4 +53,5 @@ pipeline {
             }
         }
     }
+}
 }
