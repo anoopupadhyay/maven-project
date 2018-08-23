@@ -1,8 +1,7 @@
 
 node('master'){
 
-    agent any
-   
+  
     stages {
     
 	    stage ('Compile Stage') {
