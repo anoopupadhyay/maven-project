@@ -1,7 +1,7 @@
-node('master') {
+
 
 pipeline {
-    agent any
+    agent master
    
     stages {
     
@@ -54,4 +54,4 @@ pipeline {
         }
     }
 }
-}
+
