@@ -1,6 +1,6 @@
  <html>
   <head>
-    <title>jenkine_maven-Github-Demo application</title>
+    <title>jenkine_maven-Github-Demo application-run1</title>
   </head>
 
   <body bgcolor=white>
